@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "name": "Aarav",
+        "email": "aarav@example.com",
+        "gender": "Male",
+        "date_of_birth": "1995-05-14",
+        "salary": "65000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 2,
+        "name": "Ananya",
+        "email": "ananya@example.com",
+        "gender": "Female",
+        "date_of_birth": "1990-11-23",
+        "salary": "72000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 3,
+        "name": "Raj",
+        "email": "raj@example.com",
+        "gender": "Male",
+        "date_of_birth": "1988-02-17",
+        "salary": "58000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 4,
+        "name": "Sneha",
+        "email": "sneha@example.com",
+        "gender": "Female",
+        "date_of_birth": "2000-08-09",
+        "salary": "50000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 5,
+        "name": "Farhan",
+        "email": "farhan@example.com",
+        "gender": "Male",
+        "date_of_birth": "1993-12-30",
+        "salary": "61000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 6,
+        "name": "Priyanka",
+        "email": "priyanka@example.com",
+        "gender": "Female",
+        "date_of_birth": "1985-07-12",
+        "salary": "84000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 7,
+        "name": "Aisha",
+        "email": "aisha@example.com",
+        "gender": "Female",
+        "date_of_birth": "1997-03-25",
+        "salary": "56000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 8,
+        "name": "Aditya",
+        "email": "aditya@example.com",
+        "gender": "Male",
+        "date_of_birth": "1992-06-17",
+        "salary": "69000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 9,
+        "name": "Meera",
+        "email": "meera@example.com",
+        "gender": "Female",
+        "date_of_birth": "1989-09-05",
+        "salary": "77000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 10,
+        "name": "Ishaan",
+        "email": "ishaan@example.com",
+        "gender": "Male",
+        "date_of_birth": "2001-10-02",
+        "salary": "45000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 11,
+        "name": "Tanvi",
+        "email": "tanvi@example.com",
+        "gender": "Female",
+        "date_of_birth": "1994-04-18",
+        "salary": "62000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 12,
+        "name": "Rohan",
+        "email": "rohan@example.com",
+        "gender": "Male",
+        "date_of_birth": "1986-12-01",
+        "salary": "75000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 13,
+        "name": "Zoya",
+        "email": "zoya@example.com",
+        "gender": "Female",
+        "date_of_birth": "1998-01-15",
+        "salary": "54000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 14,
+        "name": "Karan",
+        "email": "karan@example.com",
+        "gender": "Male",
+        "date_of_birth": "1990-08-22",
+        "salary": "68000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 15,
+        "name": "Nikita",
+        "email": "nikita@example.com",
+        "gender": "Female",
+        "date_of_birth": "1987-03-10",
+        "salary": "71000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 16,
+        "name": "Manav",
+        "email": "manav@example.com",
+        "gender": "Male",
+        "date_of_birth": "1996-11-29",
+        "salary": "61000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 17,
+        "name": "Divya",
+        "email": "divya@example.com",
+        "gender": "Female",
+        "date_of_birth": "1991-02-28",
+        "salary": "57000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 18,
+        "name": "Harshit",
+        "email": "harshit@example.com",
+        "gender": "Male",
+        "date_of_birth": "1993-09-09",
+        "salary": "65000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 19,
+        "name": "Ritika",
+        "email": "ritika@example.com",
+        "gender": "Female",
+        "date_of_birth": "1999-05-05",
+        "salary": "52000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 20,
+        "name": "Imran",
+        "email": "imran@example.com",
+        "gender": "Male",
+        "date_of_birth": "1995-07-30",
+        "salary": "63000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 21,
+        "name": "Juhi",
+        "email": "juhi@example.com",
+        "gender": "Female",
+        "date_of_birth": "1992-10-14",
+        "salary": "59000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 22,
+        "name": "Tushar",
+        "email": "tushar@example.com",
+        "gender": "Male",
+        "date_of_birth": "1990-01-08",
+        "salary": "73000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 23,
+        "name": "Lata",
+        "email": "lata@example.com",
+        "gender": "Female",
+        "date_of_birth": "1984-11-11",
+        "salary": "78000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 24,
+        "name": "Yash",
+        "email": "yash@example.com",
+        "gender": "Male",
+        "date_of_birth": "1997-06-06",
+        "salary": "64000.00",
+        "created_at": "2026-01-14 08:48:25"
+    },
+    {
+        "id": 25,
+        "name": "Fatima",
+        "email": "fatima@example.com",
+        "gender": "Female",
+        "date_of_birth": "1993-03-03",
+        "salary": "55000.00",
+        "created_at": "2026-01-14 08:48:25"
+    }
+]
